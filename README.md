@@ -41,4 +41,4 @@ const firebaseConfig = {
     export { auth };
 
 
-```# firebaseAuth-react-native
+```
